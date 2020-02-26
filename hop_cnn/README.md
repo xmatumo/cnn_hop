@@ -1,4 +1,4 @@
-# Hopfield 
+# Mobilenetv2 + Hopfield 
 
 ##  prepareation
 
