@@ -17,7 +17,17 @@ git clone https://github.com/DingKe/nn_playground.git
 git clone https://github.com/unixpickle/hopfield.git
 ```
 
-Place "nn_playground / xnornet" and "hopfield / hopfield /" in each of the cloned folders under "./".
+Place "nn_playground / xnornet" and "hopfield / hopfield /" in each of the cloned folders under "hop_cnns/".
+
+hop_cnn-
+        |xnornet/
+        |hopfield/
+                |network.py
+                ...
+                
+        |hopfield_imagenet_1000/
+        ...
+        experiment_integration.py
 
 
 
