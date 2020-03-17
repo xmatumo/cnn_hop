@@ -2,9 +2,9 @@
 
 ## environment
 
-Linux: Ubuntu 18.04
-GPU: GV100
-using nvidia-docker: tensorflow:18.01-py3
++ Linux: Ubuntu 18.04
++ GPU: GV100
++ using nvidia-docker: tensorflow:18.01-py3
 
 ## prepareation
 
